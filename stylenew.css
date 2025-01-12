@@ -1,0 +1,27 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(255, 0, 0);
+    display: inline-block;
+    animation: animations 0.2s linear 0s infinite normal; 
+    /*transition-property: all;*/
+}
+/*div:hover{
+    height: 200px;
+    width: 200px;
+    transition-duration: 0.1s;
+    transition-timing-function: ease-in;
+    transition-delay: 0.25s;
+    transition: all 0.1s ease-in 0.25s;
+    transform: rotate(69deg);
+    transform: translate(100px,100px);
+    transform: skew(-69deg);
+}*/
+
+@keyframes animations {
+    from{background-color: red;}
+    to{background-color: rgb(0, 34, 255);}
+
+}
+
+
