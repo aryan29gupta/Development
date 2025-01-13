@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(7, 1, 37);
+}
+
+.box{
+    height:650px;
+    width: 1450px;
+    background: radial-gradient(circle,rgb(230, 231, 232),rgba(163, 206, 244, 0.836));
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.extra{
+    width: 100%;
+    height:720px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.social{
+    font-size: 20px;
+}
+.social i{
+    margin-right: 3px;
+}
+
+
+h1:hover{
+    text-decoration: underline;
+}
+
+.und:hover{
+    text-decoration: underline;
+}
+
+
