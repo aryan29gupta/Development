@@ -1,2 +1,2 @@
 # Development
-Basic to advanced level web development practice and projects
+Basic to advanced level web development practice and projects.
